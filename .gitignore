@@ -1,0 +1,22 @@
+# Ignore pubmed channel
+pubmed/
+
+# Ignore Python binaries
+jgi/__pycache__/
+mg_rast/__pycache__/
+mgnify/__pycache__/
+
+# Ignore files with the following suffixes
+*.log
+*.tsv
+*.json
+
+# Ignore LJJ first MGnify script
+mgnify/ljj_1st_hackathon_mgnify_markergene.py
+
+# Ignore tagger links
+tagger
+
+# Ignore compressed files
+*.xz
+*.gz
