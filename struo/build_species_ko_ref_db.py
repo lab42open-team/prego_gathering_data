@@ -3,7 +3,6 @@
 '''
 ABOUT
 Script name: build_species_ko_ref_db.py
-Path on oxygen: /data/databases/struo
 Developed by: Haris Zafeiropoulos
 Framework: PREGO - WP2
 
