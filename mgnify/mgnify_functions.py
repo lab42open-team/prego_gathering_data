@@ -2,7 +2,6 @@
 
 ########################################################################################
 # script name: mgnify_functions.py
-# path on oxygen: /data/databases/scripts/gathering_data/mgnify
 # developed by: Haris Zafeiropoulos
 # framework: PREGO - WP2
 ########################################################################################
@@ -12,7 +11,7 @@
 # Some functions are used in more than one scripts.
 ########################################################################################
 # usage: functions called on the get_mgnify* scripts, by including them on the scripts
-# example: from mgnify_functions import get_page, load_json_file,
+# example: from mgnify_functions import get_page, load_json_file
 ########################################################################################
 
 
