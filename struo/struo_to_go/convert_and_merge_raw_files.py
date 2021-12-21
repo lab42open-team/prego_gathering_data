@@ -1,8 +1,12 @@
 #!/usr/bin/python
 
+# ABOUT:
+# Script name: convert_and_merge_raw_files.py
+# Developed by: Haris Zafeiropoulos
+# Framework: PREGO - WP2
+
+
 import sys, os, getopt
-
-
 
 def map_gtdb_to_ncbi_id():
 
