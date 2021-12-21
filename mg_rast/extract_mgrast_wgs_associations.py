@@ -2,7 +2,6 @@
 
 ########################################################################################
 # script name: extract_mgrast_wgs_associations.py
-# path on oxygen: /data/databases/scripts/gathering_data/mgrast
 # developed by: Haris Zafeiropoulos
 # framework: PREGO - WP2
 ########################################################################################
