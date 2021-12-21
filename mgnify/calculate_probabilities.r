@@ -1,5 +1,19 @@
 #!/usr/bin/Rscript
 
+########################################################################################
+# script name: calculate_probabilities.r
+# developed by: Haris Zafeiropoulos, Savvas Paragkamian
+# framework: PREGO - WP4
+########################################################################################
+# GOAL:
+# this script aims to calculate PREGO association scores
+########################################################################################
+#
+# usage: Rscript calculate_probabilities.r
+#
+########################################################################################
+
+
 # Dependencies
 library(Rfast)
 
