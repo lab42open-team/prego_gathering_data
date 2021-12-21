@@ -2,7 +2,6 @@
 
 ########################################################################################
 # script name: get_mgnify_metatranscriptome_data.py
-# path on oxygen: /data/databases/scripts/gathering_data/mgnify
 # developed by: Haris Zafeiropoulos and the PREGO team
 # framework: PREGO - WP2, http://prego.hcmr.gr
 ########################################################################################
