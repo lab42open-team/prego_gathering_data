@@ -2,7 +2,6 @@
 
 ########################################################################################
 # script name: extract_mgnify_markergne_associations.py
-# path on oxygen: /data/databases/gathering_data/mgnify
 # developed by: Haris Zafeiropoulos*
 # framework: PREGO - WP2
 ########################################################################################
