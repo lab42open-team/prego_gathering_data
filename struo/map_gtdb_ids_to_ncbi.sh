@@ -2,7 +2,6 @@
 
 # ABOUT:
 # Script name: map_gtdb_ids_to_ncbi.sh
-# Path on oxygen: /data/databases/struo
 # Developed by: Haris Zafeiropoulos
 # Framework: PREGO - WP2
 
