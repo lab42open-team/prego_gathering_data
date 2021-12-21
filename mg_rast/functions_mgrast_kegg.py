@@ -2,7 +2,6 @@
 
 ########################################################################################
 # script name: functions_mgrast.py
-# path on oxygen: /data/databases/scripts/gathering_data/mgrast
 # developed by: Haris Zafeiropoulos
 # framework: PREGO - WP2
 ########################################################################################
